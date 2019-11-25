@@ -1,7 +1,7 @@
 import XCTest
 
-import gameoflife_swiftTests
+import GameOfLifeTests
 
 var tests = [XCTestCaseEntry]()
-tests += gameoflife_swiftTests.allTests()
+tests += GameOfLifeTests.allTests()
 XCTMain(tests)
