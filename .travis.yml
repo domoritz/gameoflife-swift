@@ -1,4 +1,0 @@
-language: swift
-osx_image: xcode11.2
-script:
-  - xcodebuild -scheme GameOfLife build test
