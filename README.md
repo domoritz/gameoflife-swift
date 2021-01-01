@@ -1,4 +1,4 @@
-# Conway's Game of Life in Swift [![Build Status](https://travis-ci.com/domoritz/gameoflife-swift.svg?branch=master)](https://travis-ci.com/domoritz/gameoflife-swift)
+# Conway's Game of Life in Swift ![Swift](https://github.com/domoritz/gameoflife-swift/workflows/Swift/badge.svg)
 
 Implementation of Conway's Game of Life in an infinite space in Swift. Alive cells are stored in a set. To calculate the next iteration, we compute the number of neighbors for each cell that has neighbors.
 
